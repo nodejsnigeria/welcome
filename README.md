@@ -19,5 +19,8 @@ If you have any challenges with joining the Slack organization, please open an i
 ## Read through our Code of Conduct
 All members of Node.js Nogeria are required to follow the Code of Conduct. Actions violating the Code of Conduct can be greviously penalized, depending on the level of involvement of the subject. Please visit [this link](https://github.com/nodejsnigeria/admin/blob/master/CODE_OF_CONDUCT.md) to read the Code of Conduct.
 
+## Contributing
+To get started with contributing, you should read the [Contributing Guidelines document](https://github.com/nodejsnigeria/welcome/blob/master/CONTRUTING.md). This document includes a guide to contributing.
+
 ## Know how we function as an organization
 Node.js Nigeria is committed to functioning effectively, and part of the measures in place to make that possible is the creation and maintenance of an organizational structure that is administered on various levels. To find out about our administration, visit [this link](https://github.com/nodejsnigeria/admin/blob/master/README.md)
