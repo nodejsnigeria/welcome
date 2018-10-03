@@ -4,7 +4,7 @@ A guide for those who are new to Node.js Nigeria and want to be a part.
 ## Join us on Slack
 To join us on Slack, please follow these steps:
 
-1. Visit [NodeSlackers](nodeslackers.com).
+1. Visit [NodeSlackers](http://www.nodeslackers.com/).
 
 2. Fill the form. You will get an invitation to join the Slack organization within a few days (most times, it's a lot quicker than that).
 
